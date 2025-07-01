@@ -6,8 +6,8 @@
 />
 </a>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=h213yun" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h213yun&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h213yun&hide=stars,issues&count_private=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h213yun&layout=compact&langs_count=4" />
 </div>
 
 
