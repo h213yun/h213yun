@@ -1,16 +1,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=h213yun.h213yun)
 
 
-### 🌱 Research Interests
-Over the next year, I’m looking to further develop my work in multimodal generative models, motion generation, character control, and AI safety. I’m actively seeking research opportunities in these areas and welcome collaboration! If you're interested in collaborating or learning more about my work, feel free to reach out to me at `rhyunju31@korea.ac.kr`.
+### Research Interests
+Multimodal generative models, motion generation, character control, and AI safety. Open to research collaborations!
 
-### 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-F8F4EE)](mailto:rhyunju31@korea.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFE4E1)](https://www.linkedin.com/in/rhyunju31)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-F6546A)](https://hailey-hyunju-ryu.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-00CED1)](https://scholar.google.com/citations?user=Wsy_LWcAAAAJ)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2)](https://x.com/hailey__ryu)
-
+### Contact
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyunju31@korea.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyunju31)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://hailey-hyunju-ryu.github.io/)
+[![Google Scholar](https://img.shields.io/badge/SCHOLAR-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wsy_LWcAAAAJ)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hailey__ryu)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=h213yun&utm_content=farm">
 <img
