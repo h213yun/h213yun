@@ -2,10 +2,10 @@
 Multimodal generative models, motion generation, character control, and AI safety. Open to research collaborations!🌟
 
 ### Contact
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyunju31@korea.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyunju31)
-[![Portfolio](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://hailey-hyunju-ryu.github.io/)
-[![Google Scholar](https://img.shields.io/badge/SCHOLAR-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wsy_LWcAAAAJ)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyunju31@korea.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyunju31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://hailey-hyunju-ryu.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wsy_LWcAAAAJ)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hailey__ryu)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=h213yun&utm_content=farm">
