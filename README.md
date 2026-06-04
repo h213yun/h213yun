@@ -1,5 +1,5 @@
 ### Research Interests
-Multimodal generative models, motion generation, character control, and AI safety. Open to research collaborations!🌟
+Multimodal generative models and AI safety. Open to research collaborations!🌟
 
 ### Contact
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyunju31@korea.ac.kr)
